@@ -5,6 +5,8 @@ Remake of 38: Odyssey 2 K.C. Munchkin / Philips Videopac Munchkin
 Remake of 38: Odyssey 2 K.C. Munchkin / Philips Videopac Munchkin
 Originally released in 1982, programmed by Ed Averett.  
 
+![Front_EU](https://github.com/user-attachments/assets/708bc7f7-7fd5-4b38-b0c0-5bbf297580db)     ![Front_US](https://github.com/user-attachments/assets/47061697-4a1c-4271-bb83-545e1be40f2b)
+
 
 
 Created with SDL 1.2 in C.          
