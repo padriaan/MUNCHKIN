@@ -26,6 +26,8 @@ Controls:
 - Esc to quit from game. Esc in start-screen to quit all.  
 - Character keys for entering high score name. Return to complete.
 
+![Title_Screen_resized](https://github.com/user-attachments/assets/ed2c0b2e-1fb9-4d78-a1d3-98afcc2970e9)   ![In Game_resized](https://github.com/user-attachments/assets/6f2c1e94-6cd6-41b5-9e3c-008800284cb1)
+
 
 
 Compile and link from source
