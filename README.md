@@ -5,7 +5,7 @@ Remake of 38: Odyssey 2 K.C. Munchkin / Philips Videopac Munchkin
 Remake of 38: Odyssey 2 K.C. Munchkin / Philips Videopac Munchkin
 Originally released in 1981, programmed by Ed Averett.  
 
-![Front_EU_resized](https://github.com/user-attachments/assets/1b689f52-96f4-491d-a65b-a9b82df61858)   ![Front_US_resized](https://github.com/user-attachments/assets/0c20c7f1-c6b4-47c8-8a5d-9e2d7b18a3f0)
+![Front_EU_resized](https://github.com/user-attachments/assets/1b689f52-96f4-491d-a65b-a9b82df61858) ![Front_US_resized](https://github.com/user-attachments/assets/0c20c7f1-c6b4-47c8-8a5d-9e2d7b18a3f0)
 
 
 Created with SDL 1.2 in C.          
@@ -25,8 +25,9 @@ Controls:
 - Use 8 to toggle full-screen on/off.  
 - Esc to quit from game. Esc in start-screen to quit all.  
 - Character keys for entering high score name. Return to complete.
+- 
 
-![Title_Screen_resized](https://github.com/user-attachments/assets/ed2c0b2e-1fb9-4d78-a1d3-98afcc2970e9)   ![In Game_resized](https://github.com/user-attachments/assets/6f2c1e94-6cd6-41b5-9e3c-008800284cb1)
+![Title_Screen_resized](https://github.com/user-attachments/assets/ed2c0b2e-1fb9-4d78-a1d3-98afcc2970e9) ![In Game_resized](https://github.com/user-attachments/assets/6f2c1e94-6cd6-41b5-9e3c-008800284cb1)
 
 
 
