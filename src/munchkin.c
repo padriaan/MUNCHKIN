@@ -1606,7 +1606,7 @@ void handle_pills()
 
      if (pills[i].status != 0) {   // active
 
-         pill_eaten == FALSE; 
+         pill_eaten = FALSE; 
          if (munchkin_dying == FALSE ) pill_eaten = check_pill_eaten(i);  // to prevent eating when dying
 
          if (pill_eaten == FALSE) {
